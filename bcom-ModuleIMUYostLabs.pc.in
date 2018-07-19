@@ -1,0 +1,12 @@
+libname=ModuleIMUYostLabs
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/interfaces
+Name: ModuleIMUYostLabs
+Description:
+Version: 0.4.0
+Requires:
+Libs: -L${libdir} -l${libname}
+Libs.private: ${libdir}/${pfx}${libname}.${lext}
+Cflags: -I${includedir}

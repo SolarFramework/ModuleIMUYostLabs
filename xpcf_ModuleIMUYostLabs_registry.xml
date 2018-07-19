@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<xpcf-registry>
+     <module uuid="0241ec6e-10d0-11e8-b642-0ed5f89f718b" name="ModuleIMUYostLabs"    path="$BCOMDEVROOT/bcomBuild/ModuleIMUYostLabs/0.4.0/lib/x86_64/shared">
+        <component uuid="33249692-10d0-11e8-b642-0ed5f89f718b" description="IMUYostLabs">
+                <interface uuid="125f2007-1bf9-421d-9367-fbdc1210d006" description="IComponentIntrospect"/>
+                <interface uuid="9940fa48-10cf-11e8-b642-0ed5f89f718b" description="IIMU"/>
+        </component>
+        <component uuid="92d64878-163a-11e8-b642-0ed5f89f718b" description="IMUYostLabsStream">
+                <interface uuid="125f2007-1bf9-421d-9367-fbdc1210d006" description="IComponentIntrospect"/>
+                <interface uuid="9940fa48-10cf-11e8-b642-0ed5f89f718b" description="IIMU"/>
+        </component>
+    </module>
+</xpcf-registry>
