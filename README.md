@@ -1,3 +1,5 @@
+# DEPRECATED - This repo is no longer maintained
+----
 # ModuleIMUYostLabs
 This module contains a set of components that implements the SolAR IMU interface for the Yost Labs 3-SpaceTM Micro USB IMU [https://yostlabs.com/product/3-space-micro-usb/]
 
